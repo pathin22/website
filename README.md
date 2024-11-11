@@ -1,3 +1,5 @@
 # website
-![Screenshot 2024-11-11 230025](https://github.com/user-attachments/assets/ae30724e-9fbf-462f-b1f2-792aba03ae52)
-![image](https://github.com/user-attachments/assets/e3c1dc47-82ff-4c39-bd50-68b47e30e612)
+![image](https://github.com/user-attachments/assets/1342181a-3d35-4cbe-8f59-44c0c3f17246)
+![image](https://github.com/user-attachments/assets/46492500-ebb0-47fc-828b-9a0254b083a4)
+![image](https://github.com/user-attachments/assets/60daf327-6f8b-4c65-9612-deedf5daa1c7)
+![image](https://github.com/user-attachments/assets/6c247504-3dc0-4b0e-87d0-73594459738b)
